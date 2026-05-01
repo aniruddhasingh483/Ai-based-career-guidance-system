@@ -1,0 +1,7 @@
+Flask
+Flask-Bcrypt
+Flask-Login
+python-dotenv
+openai
+PyPDF2
+ollama
